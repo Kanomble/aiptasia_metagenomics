@@ -1,0 +1,15 @@
+name: aiptasia_metagenomics
+channels:
+  - qiime2
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.10
+  - biopython
+  - entrez-direct
+  - qiime2
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn
